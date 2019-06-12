@@ -64,6 +64,20 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/hydrogen/proprietary/vendor/firmware/cpp_firmware_v1_5_0.fw:system/vendor/firmware/cpp_firmware_v1_5_0.fw \
     vendor/xiaomi/hydrogen/proprietary/vendor/firmware/cpp_firmware_v1_6_0.fw:system/vendor/firmware/cpp_firmware_v1_6_0.fw \
     vendor/xiaomi/hydrogen/proprietary/vendor/firmware/cpp_firmware_v1_8_0.fw:system/vendor/firmware/cpp_firmware_v1_8_0.fw \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus-v1.b00:system/vendor/firmware/venus-v1.b00 \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus-v1.b01:system/vendor/firmware/venus-v1.b01 \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus-v1.b02:system/vendor/firmware/venus-v1.b02 \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus-v1.b03:system/vendor/firmware/venus-v1.b03 \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus-v1.b04:system/vendor/firmware/venus-v1.b04 \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus-v1.mbn:system/vendor/firmware/venus-v1.mbn \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus-v1.mdt:system/vendor/firmware/venus-v1.mdt \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus.b00:system/vendor/firmware/venus.b00 \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus.b01:system/vendor/firmware/venus.b01 \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus.b02:system/vendor/firmware/venus.b02 \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus.b03:system/vendor/firmware/venus.b03 \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus.b04:system/vendor/firmware/venus.b04 \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus.mbn:system/vendor/firmware/venus.mbn \
+    vendor/xiaomi/hydrogen/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt \
     vendor/xiaomi/hydrogen/proprietary/vendor/etc/lf_facerank_model.bin:system/vendor/etc/lf_facerank_model.bin \
     vendor/xiaomi/hydrogen/proprietary/vendor/etc/modem/Diag.cfg:system/vendor/etc/modem/Diag.cfg \
     vendor/xiaomi/hydrogen/proprietary/vendor/etc/people_gender.dat:system/vendor/etc/people_gender.dat \
